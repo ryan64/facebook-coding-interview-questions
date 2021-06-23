@@ -1,0 +1,13 @@
+You are given a dictionary of words and a large input string. You have to find out whether the input string can be completely segmented into the words of a given dictionary. The following example elaborates on the problem further.
+
+Given dictionary of words:
+
+[apple][pear][pier][pie]
+------------------------------------------------------------
+Input string of "applepie" can be segmented into dictionary  words (apple and pie): 
+
+[apple][pie]
+------------------------------------------------------------
+Input string of "applepeer" cannot be segmented into dictionary words:
+
+[apple][peer]
