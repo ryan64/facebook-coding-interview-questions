@@ -1,0 +1,9 @@
+Given a list of daily stock prices (integers for simplicity), return the buy and sell prices for making the maximum profit.
+
+We need to maximize the single buy/sell profit. If we can’t make any profit, we’ll try to minimize the loss. For the below examples, buy (orange) and sell (green) prices for making a maximum profit are highlighted.
+
+       buy                sell
+[ 8 ] [ 5 ] [ 12 ] [ 9 ] [ 19 ] [ 1 ]
+
+        buy    sell
+[ 21 ] [ 12 ] [ 11 ] [ 9 ] [ 6 ] [ 3 ]
